@@ -6,6 +6,9 @@ adapted here under the same MIT terms. The PhenoAge formula itself is public-dom
 science after Levine 2018 (doi:10.18632/aging.101414) and the BioAge R reference
 (Kwon & Belsky 2021, doi:10.1007/s11357-021-00480-5).
 
+Driver decomposition and UCUM unit scaling adapted from brainarts-lab/hebe-longevity
+(MIT License, Copyright (c) 2026 BrainArts), which vendors PLSI under the same terms.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
